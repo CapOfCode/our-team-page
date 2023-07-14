@@ -62,6 +62,11 @@ img {
         font-size: 1rem;
     }
 
+    .image h5 {
+        font-size: 0.5rem;
+        transform: translateX(-10px);
+    }
+
 
     .banner-text {
         display: flex;
